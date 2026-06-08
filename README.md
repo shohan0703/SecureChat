@@ -5,7 +5,7 @@
 - **Hidden chats** — a secret chat room behind a separate PIN, completely invisible in the main list
 - **AES-256 encrypted messages** — all messages encrypted before storing in Firebase
 - **Firebase real-time sync** — messages appear instantly on both devices
-- **2-user system** — designed for just you and one friend
+- **Multi-user system** — designed
 
 ---
 
